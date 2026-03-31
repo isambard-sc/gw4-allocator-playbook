@@ -1,4 +1,4 @@
-# Managing Awards on allocate-portal Playbook
+# Managing Awards on allocate-portal
 
 ## Creating an Award
 
