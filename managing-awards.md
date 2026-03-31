@@ -1,8 +1,8 @@
-# Managing Awards on allocate-portal
+# Managing Awards on the [Allocate Portal](https://allocate.isambard.ac.uk)
 
 ## Creating an Award
 
-1. Log into the Allocate Portal using your account.
+1. Log into the [Allocate Portal](https://allocate.isambard.ac.uk) using your account.
 2. Navigate to the **Organisation** page for the appropriate institution (Cardiff University, University of Bath, or University of Exeter).
 3. Click on the **Awards** tab.
 4. Click the **Add** button to create a new Award.
@@ -38,13 +38,13 @@ The award is now created and the PI has been added. This information will be com
 
 ### Extending the End Date
 
-1. Go to the award dashboard in the Allocate Portal.
+1. Go to the award dashboard in the [Allocate Portal](https://allocate.isambard.ac.uk).
 2. Click **Edit** at the top to edit the award details.
 3. Click the **Edit** button to the right of the **End Date** field. Choose the new end date and click **Save**. The change will be communicated automatically to the Bristol Portal, which will update the project there too.
 
 ### Adding Additional Node Hours
 
-1. Go to the project page in the Allocate Portal.
+1. Go to the award page in the [Allocate Portal](https://allocate.isambard.ac.uk).
 2. Click on the **Resources** tab.
 3. Click on **Isambard 3** to go to the resource page.
 4. Click **Options** in the middle/top menu to see the resource options. You should see the **Allocation** with the current allocation value.
