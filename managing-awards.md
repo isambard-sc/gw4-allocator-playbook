@@ -50,6 +50,6 @@ The award is now created and the PI has been added. This information will be com
 4. Click **Options** in the middle/top menu to see the resource options. You should see the **Allocation** with the current allocation value.
 5. Click the **Edit** button on the right. Change the allocation to the **total new allocation** (i.e. current value plus the top-up). Click **Save**. This will automatically send an update request to the Bristol Portal.
 
-> **Note:** These requests need to be approved in the Bristol Portal.
+> **Note:** Requests for additional Node Hours need to be approved in the Bristol Portal.
 
 > **Warning:** The allocation update can sometimes fail for older projects or projects with previous allocation issues. Please email the BriCS team after adding an extension so that any issues can be identified and resolved promptly.
